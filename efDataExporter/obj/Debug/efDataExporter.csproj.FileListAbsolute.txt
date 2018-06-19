@@ -1,0 +1,56 @@
+C:\_Dev_Test\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.exe.config
+C:\_Dev_Test\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.exe
+C:\_Dev_Test\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.pdb
+C:\_Dev_Test\efDataExporter\efDataExporter\bin\Debug\log4net.dll
+C:\_Dev_Test\efDataExporter\efDataExporter\bin\Debug\log4net.xml
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ProjectInstaller.resources
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ServiceController.resources
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.GenerateResource.Cache
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.CoreCompileInputs.cache
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\wnDataExporter.exe
+C:\_Dev_Test\efDataExporter\efDataExporter\obj\Debug\wnDataExporter.pdb
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ProjectInstaller.resources
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ServiceController.resources
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.GenerateResource.Cache
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.CoreCompileInputs.cache
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.exe.config
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.exe
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\wnDataExporter.pdb
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\log4net.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\log4net.xml
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\wnDataExporter.exe
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\wnDataExporter.pdb
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ProjectInstaller.resources
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExtporter.ServiceController.resources
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.GenerateResource.cache
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\log4net.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\log4net.xml
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csproj.CopyComplete
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\DnsClient.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Bson.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\System.Buffers.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\DnsClient.xml
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Bson.xml
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.xml
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\gwilkinson\Dropbox (WNDirect)\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\DnsClient.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Bson.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\System.Buffers.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\DnsClient.xml
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Bson.xml
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.xml
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\efDataExporter.exe.config
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\efDataExporter.exe
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\bin\Debug\efDataExporter.pdb
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.exe
+C:\Users\Glenn\Dropbox\_Personal\EnglishForums\DataExporter\efDataExporter\efDataExporter\obj\Debug\efDataExporter.pdb

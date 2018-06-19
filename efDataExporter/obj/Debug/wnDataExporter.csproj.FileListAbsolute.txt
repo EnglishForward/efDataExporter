@@ -1,0 +1,17 @@
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\wnDataExporter.exe.config
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.csprojResolveAssemblyReference.cache
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.ProjectInstaller.resources
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.ServiceController.resources
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.csproj.GenerateResource.Cache
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\wnDataExporter.exe
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\wnDataExporter.pdb
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\log4net.dll
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\WNDCodeLib.dll
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\wnDirect.Athena.Business.BLAthena.dll
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\edtFTPnet.dll
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\WinSCPnet.dll
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\WNDCodeLib.pdb
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\wnDirect.Athena.Business.BLAthena.pdb
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\bin\Debug\log4net.xml
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.exe
+C:\_Dev\Athena\Processes\wnDataExporter\wnDataExporter\obj\Debug\wnDataExporter.pdb
